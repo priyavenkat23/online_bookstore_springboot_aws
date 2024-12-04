@@ -15,8 +15,10 @@ public class Book {
     private Long id;
     private String title;
     private String author;
-    private Double price;
-
+    private String genre;
+    private double price;
+    private String description;
+    private String coverImageUrl;
     // Getters and setters
 }
 
